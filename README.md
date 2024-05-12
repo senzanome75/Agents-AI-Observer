@@ -12,6 +12,8 @@ The AI would have to be purpose-built, I think. I don't know if it could be a co
 
 ---
 
-A possible experiment should express in a software with quantum language (as Microsoft Q#) to simulate a physical phenomenon; in my opinion, the code should be recursive.
+A possible experiment should express in a software with quantum language (as Microsoft Q#) to simulate a physical phenomenon; in my opinion, the code should be recursive (the code maybe wrong; take only the questions).
 
-https://github.com/senzanome75/Agents-AI-Observer/blob/main/screenshot-chatgpt.com-2024.05.12-12_41_25.png (The code maybe wrong; take only the questions.
+https://github.com/senzanome75/Agents-AI-Observer/blob/main/screenshot-chatgpt.com-2024.05.12-12_41_25.png
+
+https://github.com/senzanome75/Agents-AI-Observer/blob/main/screenshot-chatgpt.com-2024.05.12-13_01_33.png
